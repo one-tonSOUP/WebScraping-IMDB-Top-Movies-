@@ -36,13 +36,11 @@ def list_to_str(directors_list, members_list):
     # First converting the list into a string type..
     members_list = str(members_list)
     directors_list = str(directors_list)
-
     # Removing the unwanted characters from the string..
     filter_list = ['[', ']', '\'']
     for flter in filter_list:
         members_list = members_list.replace(flter, '')
         directors_list = directors_list.replace(flter, '')
-
     # Removing the initial and last space if exists..
     members_list = members_list.strip()
     directors_list = directors_list.strip()
@@ -52,10 +50,8 @@ def list_to_str(directors_list, members_list):
 def directors_cast(Cast):
     # Splitting the members of a single movie and storing in a list..
     members = Cast.split(',')
-    
     directors_list = []
     members_list = []
-    
     for member in members:
         # Put the name in 'directors_list' list if the person is a director..
         if '(dir.)' in member:
@@ -63,7 +59,6 @@ def directors_cast(Cast):
         # Put the name in 'members_list' list if the person is not a director..
         else:
             members_list.append(member)
-    
     director, cast = list_to_str(directors_list, members_list)
     return director, cast
 
