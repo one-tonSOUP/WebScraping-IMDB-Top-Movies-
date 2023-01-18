@@ -1,0 +1,251 @@
+Rank,Title,Year,Director,Cast,Rating,Poster
+1,The Shawshank Redemption,1994,Frank Darabont,"Tim Robbins,  Morgan Freeman",9.2,\Posters\The Shawshank Redemption
+2,The Godfather,1972,Francis Ford Coppola,"Marlon Brando,  Al Pacino",9.2,\Posters\The Godfather
+3,The Dark Knight,2008,Christopher Nolan,"Christian Bale,  Heath Ledger",9.0,\Posters\The Dark Knight
+4,The Godfather Part II,1974,Francis Ford Coppola,"Al Pacino,  Robert De Niro",9.0,\Posters\The Godfather Part II
+5,12 Angry Men,1957,Sidney Lumet,"Henry Fonda,  Lee J. Cobb",9.0,\Posters\12 Angry Men
+6,Schindler's List,1993,Steven Spielberg,"Liam Neeson,  Ralph Fiennes",8.9,\Posters\Schindler's List
+7,The Lord of the Rings: The Return of the King,2003,Peter Jackson,"Elijah Wood,  Viggo Mortensen",8.9,\Posters\The Lord of the Rings: The Return of the King
+8,Pulp Fiction,1994,Quentin Tarantino,"John Travolta,  Uma Thurman",8.8,\Posters\Pulp Fiction
+9,The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,"Elijah Wood,  Ian McKellen",8.8,\Posters\The Lord of the Rings: The Fellowship of the Ring
+10,"Il buono, il brutto, il cattivo",1966,Sergio Leone,"Clint Eastwood,  Eli Wallach",8.8,"\Posters\Il buono, il brutto, il cattivo"
+11,Forrest Gump,1994,Robert Zemeckis,"Tom Hanks,  Robin Wright",8.8,\Posters\Forrest Gump
+12,Fight Club,1999,David Fincher,"Brad Pitt,  Edward Norton",8.7,\Posters\Fight Club
+13,The Lord of the Rings: The Two Towers,2002,Peter Jackson,"Elijah Wood,  Ian McKellen",8.7,\Posters\The Lord of the Rings: The Two Towers
+14,Inception,2010,Christopher Nolan,"Leonardo DiCaprio,  Joseph Gordon-Levitt",8.7,\Posters\Inception
+15,The Empire Strikes Back,1980,Irvin Kershner,"Mark Hamill,  Harrison Ford",8.7,\Posters\The Empire Strikes Back
+16,The Matrix,1999,Lana Wachowski,"Keanu Reeves,  Laurence Fishburne",8.7,\Posters\The Matrix
+17,GoodFellas,1990,Martin Scorsese,"Robert De Niro,  Ray Liotta",8.7,\Posters\GoodFellas
+18,One Flew Over the Cuckoo's Nest,1975,Milos Forman,"Jack Nicholson,  Louise Fletcher",8.6,\Posters\One Flew Over the Cuckoo's Nest
+19,Se7en,1995,David Fincher,"Morgan Freeman,  Brad Pitt",8.6,\Posters\Se7en
+20,Shichinin no samurai,1954,Akira Kurosawa,"Toshirô Mifune,  Takashi Shimura",8.6,\Posters\Shichinin no samurai
+21,It's a Wonderful Life,1946,Frank Capra,"James Stewart,  Donna Reed",8.6,\Posters\It's a Wonderful Life
+22,The Silence of the Lambs,1991,Jonathan Demme,"Jodie Foster,  Anthony Hopkins",8.6,\Posters\The Silence of the Lambs
+23,Cidade de Deus,2002,Fernando Meirelles,"Alexandre Rodrigues,  Leandro Firmino",8.6,\Posters\Cidade de Deus
+24,Saving Private Ryan,1998,Steven Spielberg,"Tom Hanks,  Matt Damon",8.6,\Posters\Saving Private Ryan
+25,La vita è bella,1997,Roberto Benigni,"Roberto Benigni,  Nicoletta Braschi",8.6,\Posters\La vita è bella
+26,Interstellar,2014,Christopher Nolan,"Matthew McConaughey,  Anne Hathaway",8.6,\Posters\Interstellar
+27,The Green Mile,1999,Frank Darabont,"Tom Hanks,  Michael Clarke Duncan",8.6,\Posters\The Green Mile
+28,Star Wars,1977,George Lucas,"Mark Hamill,  Harrison Ford",8.5,\Posters\Star Wars
+29,Terminator 2: Judgment Day,1991,James Cameron,"Arnold Schwarzenegger,  Linda Hamilton",8.5,\Posters\Terminator 2: Judgment Day
+30,Back to the Future,1985,Robert Zemeckis,"Michael J. Fox,  Christopher Lloyd",8.5,\Posters\Back to the Future
+31,Sen to Chihiro no kamikakushi,2001,Hayao Miyazaki,"Daveigh Chase,  Suzanne Pleshette",8.5,\Posters\Sen to Chihiro no kamikakushi
+32,The Pianist,2002,Roman Polanski,"Adrien Brody,  Thomas Kretschmann",8.5,\Posters\The Pianist
+33,Psycho,1960,Alfred Hitchcock,"Anthony Perkins,  Janet Leigh",8.5,\Posters\Psycho
+34,Gisaengchung,2019,Bong Joon Ho,"Song Kang-ho,  Lee Sun-kyun",8.5,\Posters\Gisaengchung
+35,Léon,1994,Luc Besson,"Jean Reno,  Gary Oldman",8.5,\Posters\Léon
+36,The Lion King,1994,Roger Allers,"Matthew Broderick,  Jeremy Irons",8.5,\Posters\The Lion King
+37,Gladiator,2000,Ridley Scott,"Russell Crowe,  Joaquin Phoenix",8.5,\Posters\Gladiator
+38,American History X,1998,Tony Kaye,"Edward Norton,  Edward Furlong",8.5,\Posters\American History X
+39,The Departed,2006,Martin Scorsese,"Leonardo DiCaprio,  Matt Damon",8.5,\Posters\The Departed
+40,The Usual Suspects,1995,Bryan Singer,"Kevin Spacey,  Gabriel Byrne",8.5,\Posters\The Usual Suspects
+41,The Prestige,2006,Christopher Nolan,"Christian Bale,  Hugh Jackman",8.5,\Posters\The Prestige
+42,Whiplash,2014,Damien Chazelle,"Miles Teller,  J.K. Simmons",8.5,\Posters\Whiplash
+43,Casablanca,1942,Michael Curtiz,"Humphrey Bogart,  Ingrid Bergman",8.5,\Posters\Casablanca
+44,Seppuku,1962,Masaki Kobayashi,"Tatsuya Nakadai,  Akira Ishihama",8.5,\Posters\Seppuku
+45,Hotaru no haka,1988,Isao Takahata,"Tsutomu Tatsumi,  Ayano Shiraishi",8.5,\Posters\Hotaru no haka
+46,The Intouchables,2011,Olivier Nakache,"François Cluzet,  Omar Sy",8.5,\Posters\The Intouchables
+47,Modern Times,1936,Charles Chaplin,"Charles Chaplin,  Paulette Goddard",8.4,\Posters\Modern Times
+48,Once Upon a Time in the West,1968,Sergio Leone,"Henry Fonda,  Charles Bronson",8.4,\Posters\Once Upon a Time in the West
+49,Rear Window,1954,Alfred Hitchcock,"James Stewart,  Grace Kelly",8.4,\Posters\Rear Window
+50,Nuovo Cinema Paradiso,1988,Giuseppe Tornatore,"Philippe Noiret,  Enzo Cannavale",8.4,\Posters\Nuovo Cinema Paradiso
+51,Alien,1979,Ridley Scott,"Sigourney Weaver,  Tom Skerritt",8.4,\Posters\Alien
+52,City Lights,1931,Charles Chaplin,"Charles Chaplin,  Virginia Cherrill",8.4,\Posters\City Lights
+53,Apocalypse Now,1979,Francis Ford Coppola,"Martin Sheen,  Marlon Brando",8.4,\Posters\Apocalypse Now
+54,Memento,2000,Christopher Nolan,"Guy Pearce,  Carrie-Anne Moss",8.4,\Posters\Memento
+55,Django Unchained,2012,Quentin Tarantino,"Jamie Foxx,  Christoph Waltz",8.4,\Posters\Django Unchained
+56,Raiders of the Lost Ark,1981,Steven Spielberg,"Harrison Ford,  Karen Allen",8.4,\Posters\Raiders of the Lost Ark
+57,WALL·E,2008,Andrew Stanton,"Ben Burtt,  Elissa Knight",8.4,\Posters\WALL·E
+58,The Lives of Others,2006,Florian Henckel von Donnersmarck,"Ulrich Mühe,  Martina Gedeck",8.4,\Posters\The Lives of Others
+59,Sunset Blvd.,1950,Billy Wilder,"William Holden,  Gloria Swanson",8.4,\Posters\Sunset Blvd.
+60,Paths of Glory,1957,Stanley Kubrick,"Kirk Douglas,  Ralph Meeker",8.4,\Posters\Paths of Glory
+61,The Shining,1980,Stanley Kubrick,"Jack Nicholson,  Shelley Duvall",8.4,\Posters\The Shining
+62,The Great Dictator,1940,Charles Chaplin,"Charles Chaplin,  Paulette Goddard",8.4,\Posters\The Great Dictator
+63,Avengers: Infinity War,2018,Anthony Russo,"Robert Downey Jr.,  Chris Hemsworth",8.4,\Posters\Avengers: Infinity War
+64,Witness for the Prosecution,1957,Billy Wilder,"Tyrone Power,  Marlene Dietrich",8.4,\Posters\Witness for the Prosecution
+65,Aliens,1986,James Cameron,"Sigourney Weaver,  Michael Biehn",8.3,\Posters\Aliens
+66,Spider-Man: Into the Spider-Verse,2018,Bob Persichetti,"Shameik Moore,  Jake Johnson",8.3,\Posters\Spider-Man: Into the Spider-Verse
+67,American Beauty,1999,Sam Mendes,"Kevin Spacey,  Annette Bening",8.3,\Posters\American Beauty
+68,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Stanley Kubrick,"Peter Sellers,  George C. Scott",8.3,\Posters\Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+69,The Dark Knight Rises,2012,Christopher Nolan,"Christian Bale,  Tom Hardy",8.3,\Posters\The Dark Knight Rises
+70,Oldeuboi,2003,Park Chan-wook,"Choi Min-sik,  Yoo Ji-tae",8.3,\Posters\Oldeuboi
+71,Inglourious Basterds,2009,Quentin Tarantino,"Brad Pitt,  Diane Kruger",8.3,\Posters\Inglourious Basterds
+72,Amadeus,1984,Milos Forman,"F. Murray Abraham,  Tom Hulce",8.3,\Posters\Amadeus
+73,Coco,2017,Lee Unkrich,"Anthony Gonzalez,  Gael García Bernal",8.3,\Posters\Coco
+74,Joker,2019,Todd Phillips,"Joaquin Phoenix,  Robert De Niro",8.3,\Posters\Joker
+75,Toy Story,1995,John Lasseter,"Tom Hanks,  Tim Allen",8.3,\Posters\Toy Story
+76,Braveheart,1995,Mel Gibson,"Mel Gibson,  Sophie Marceau",8.3,\Posters\Braveheart
+77,Das Boot,1981,Wolfgang Petersen,"Jürgen Prochnow,  Herbert Grönemeyer",8.3,\Posters\Das Boot
+78,Avengers: Endgame,2019,Anthony Russo,"Robert Downey Jr.,  Chris Evans",8.3,\Posters\Avengers: Endgame
+79,Mononoke-hime,1997,Hayao Miyazaki,"Yôji Matsuda,  Yuriko Ishida",8.3,\Posters\Mononoke-hime
+80,Once Upon a Time in America,1984,Sergio Leone,"Robert De Niro,  James Woods",8.3,\Posters\Once Upon a Time in America
+81,Good Will Hunting,1997,Gus Van Sant,"Robin Williams,  Matt Damon",8.3,\Posters\Good Will Hunting
+82,Kimi no Na wa.,2016,Makoto Shinkai,"Ryûnosuke Kamiki,  Mone Kamishiraishi",8.3,\Posters\Kimi no Na wa.
+83,Requiem for a Dream,2000,Darren Aronofsky,"Ellen Burstyn,  Jared Leto",8.3,\Posters\Requiem for a Dream
+84,3 Idiots,2009,Rajkumar Hirani,"Aamir Khan,  Madhavan",8.3,\Posters\3 Idiots
+85,Singin' in the Rain,1952,Stanley Donen,"Gene Kelly, "" Donald OConnor""",8.3,\Posters\Singin' in the Rain
+86,Toy Story 3,2010,Lee Unkrich,"Tom Hanks,  Tim Allen",8.3,\Posters\Toy Story 3
+87,Tengoku to jigoku,1963,Akira Kurosawa,"Toshirô Mifune,  Yutaka Sada",8.3,\Posters\Tengoku to jigoku
+88,Capharnaüm,2018,Nadine Labaki,"Zain Al Rafeea,  Yordanos Shiferaw",8.3,\Posters\Capharnaüm
+89,Star Wars: Episode VI - Return of the Jedi,1983,Richard Marquand,"Mark Hamill,  Harrison Ford",8.3,\Posters\Star Wars: Episode VI - Return of the Jedi
+90,Eternal Sunshine of the Spotless Mind,2004,Michel Gondry,"Jim Carrey,  Kate Winslet",8.3,\Posters\Eternal Sunshine of the Spotless Mind
+91,2001: A Space Odyssey,1968,Stanley Kubrick,"Keir Dullea,  Gary Lockwood",8.3,\Posters\2001: A Space Odyssey
+92,Reservoir Dogs,1992,Quentin Tarantino,"Harvey Keitel,  Tim Roth",8.3,\Posters\Reservoir Dogs
+93,Jagten,2012,Thomas Vinterberg,"Mads Mikkelsen,  Thomas Bo Larsen",8.3,\Posters\Jagten
+94,Idi i smotri,1985,Elem Klimov,"Aleksey Kravchenko,  Olga Mironova",8.3,\Posters\Idi i smotri
+95,Top Gun: Maverick,2022,Joseph Kosinski,"Tom Cruise,  Jennifer Connelly",8.3,\Posters\Top Gun: Maverick
+96,Citizen Kane,1941,Orson Welles,"Orson Welles,  Joseph Cotten",8.3,\Posters\Citizen Kane
+97,Lawrence of Arabia,1962,David Lean,""" Peter OToole"",  Alec Guinness",8.3,\Posters\Lawrence of Arabia
+98,M - Eine Stadt sucht einen Mörder,1931,Fritz Lang,"Peter Lorre,  Ellen Widmann",8.3,\Posters\M - Eine Stadt sucht einen Mörder
+99,North by Northwest,1959,Alfred Hitchcock,"Cary Grant,  Eva Marie Saint",8.2,\Posters\North by Northwest
+100,Vertigo,1958,Alfred Hitchcock,"James Stewart,  Kim Novak",8.2,\Posters\Vertigo
+101,Le fabuleux destin d'Amélie Poulain,2001,Jean-Pierre Jeunet,"Audrey Tautou,  Mathieu Kassovitz",8.2,\Posters\Le fabuleux destin d'Amélie Poulain
+102,The Apartment,1960,Billy Wilder,"Jack Lemmon,  Shirley MacLaine",8.2,\Posters\The Apartment
+103,Ikiru,1952,Akira Kurosawa,"Takashi Shimura,  Nobuo Kaneko",8.2,\Posters\Ikiru
+104,A Clockwork Orange,1971,Stanley Kubrick,"Malcolm McDowell,  Patrick Magee",8.2,\Posters\A Clockwork Orange
+105,Double Indemnity,1944,Billy Wilder,"Fred MacMurray,  Barbara Stanwyck",8.2,\Posters\Double Indemnity
+106,Full Metal Jacket,1987,Stanley Kubrick,"Matthew Modine,  R. Lee Ermey",8.2,\Posters\Full Metal Jacket
+107,Scarface,1983,Brian De Palma,"Al Pacino,  Michelle Pfeiffer",8.2,\Posters\Scarface
+108,Hamilton,2020,Thomas Kail,"Lin-Manuel Miranda,  Phillipa Soo",8.2,\Posters\Hamilton
+109,To Kill a Mockingbird,1962,Robert Mulligan,"Gregory Peck,  John Megna",8.2,\Posters\To Kill a Mockingbird
+110,Incendies,2010,Denis Villeneuve,"Lubna Azabal,  Mélissa Désormeaux-Poulin",8.2,\Posters\Incendies
+111,The Sting,1973,George Roy Hill,"Paul Newman,  Robert Redford",8.2,\Posters\The Sting
+112,Heat,1995,Michael Mann,"Al Pacino,  Robert De Niro",8.2,\Posters\Heat
+113,Up,2009,Pete Docter,"Edward Asner,  Jordan Nagai",8.2,\Posters\Up
+114,Jodaeiye Nader az Simin,2011,Asghar Farhadi,"Payman Maadi,  Leila Hatami",8.2,\Posters\Jodaeiye Nader az Simin
+115,Taxi Driver,1976,Martin Scorsese,"Robert De Niro,  Jodie Foster",8.2,\Posters\Taxi Driver
+116,Metropolis,1927,Fritz Lang,"Brigitte Helm,  Alfred Abel",8.2,\Posters\Metropolis
+117,L.A. Confidential,1997,Curtis Hanson,"Kevin Spacey,  Russell Crowe",8.2,\Posters\L.A. Confidential
+118,Die Hard,1988,John McTiernan,"Bruce Willis,  Alan Rickman",8.2,\Posters\Die Hard
+119,Snatch,2000,Guy Ritchie,"Jason Statham,  Brad Pitt",8.2,\Posters\Snatch
+120,Indiana Jones and the Last Crusade,1989,Steven Spielberg,"Harrison Ford,  Sean Connery",8.2,\Posters\Indiana Jones and the Last Crusade
+121,Ladri di biciclette,1948,Vittorio De Sica,"Lamberto Maggiorani,  Enzo Staiola",8.2,\Posters\Ladri di biciclette
+122,Taare Zameen Par,2007,Aamir Khan,"Darsheel Safary,  Aamir Khan",8.2,\Posters\Taare Zameen Par
+123,1917,2019,Sam Mendes,"Dean-Charles Chapman,  George MacKay",8.2,\Posters\1917
+124,Der Untergang,2004,Oliver Hirschbiegel,"Bruno Ganz,  Alexandra Maria Lara",8.2,\Posters\Der Untergang
+125,Per qualche dollaro in più,1965,Sergio Leone,"Clint Eastwood,  Lee Van Cleef",8.2,\Posters\Per qualche dollaro in più
+126,Dangal,2016,Nitesh Tiwari,"Aamir Khan,  Sakshi Tanwar",8.2,\Posters\Dangal
+127,Batman Begins,2005,Christopher Nolan,"Christian Bale,  Michael Caine",8.2,\Posters\Batman Begins
+128,The Kid,1921,Charles Chaplin,"Charles Chaplin,  Edna Purviance",8.2,\Posters\The Kid
+129,Some Like It Hot,1959,Billy Wilder,"Marilyn Monroe,  Tony Curtis",8.2,\Posters\Some Like It Hot
+130,The Father,2020,Florian Zeller,"Anthony Hopkins,  Olivia Colman",8.2,\Posters\The Father
+131,All About Eve,1950,Joseph L. Mankiewicz,"Bette Davis,  Anne Baxter",8.2,\Posters\All About Eve
+132,Green Book,2018,Peter Farrelly,"Viggo Mortensen,  Mahershala Ali",8.2,\Posters\Green Book
+133,The Wolf of Wall Street,2013,Martin Scorsese,"Leonardo DiCaprio,  Jonah Hill",8.2,\Posters\The Wolf of Wall Street
+134,Judgment at Nuremberg,1961,Stanley Kramer,"Spencer Tracy,  Burt Lancaster",8.2,\Posters\Judgment at Nuremberg
+135,Casino,1995,Martin Scorsese,"Robert De Niro,  Sharon Stone",8.2,\Posters\Casino
+136,Ran,1985,Akira Kurosawa,"Tatsuya Nakadai,  Akira Terao",8.2,\Posters\Ran
+137,Pan's Labyrinth,2006,Guillermo del Toro,"Ivana Baquero,  Ariadna Gil",8.2,\Posters\Pan's Labyrinth
+138,Unforgiven,1992,Clint Eastwood,"Clint Eastwood,  Gene Hackman",8.2,\Posters\Unforgiven
+139,The Truman Show,1998,Peter Weir,"Jim Carrey,  Ed Harris",8.2,\Posters\The Truman Show
+140,There Will Be Blood,2007,Paul Thomas Anderson,"Daniel Day-Lewis,  Paul Dano",8.2,\Posters\There Will Be Blood
+141,The Sixth Sense,1999,M. Night Shyamalan,"Bruce Willis,  Haley Joel Osment",8.2,\Posters\The Sixth Sense
+142,A Beautiful Mind,2001,Ron Howard,"Russell Crowe,  Ed Harris",8.2,\Posters\A Beautiful Mind
+143,Shutter Island,2010,Martin Scorsese,"Leonardo DiCaprio,  Emily Mortimer",8.2,\Posters\Shutter Island
+144,Yôjinbô,1961,Akira Kurosawa,"Toshirô Mifune,  Eijirô Tôno",8.1,\Posters\Yôjinbô
+145,Jurassic Park,1993,Steven Spielberg,"Sam Neill,  Laura Dern",8.1,\Posters\Jurassic Park
+146,The Treasure of the Sierra Madre,1948,John Huston,"Humphrey Bogart,  Walter Huston",8.1,\Posters\The Treasure of the Sierra Madre
+147,Monty Python and the Holy Grail,1975,Terry Gilliam,"Graham Chapman,  John Cleese",8.1,\Posters\Monty Python and the Holy Grail
+148,Spider-Man: No Way Home,2021,Jon Watts,"Tom Holland,  Zendaya",8.1,\Posters\Spider-Man: No Way Home
+149,The Great Escape,1963,John Sturges,"Steve McQueen,  James Garner",8.1,\Posters\The Great Escape
+150,Rashômon,1950,Akira Kurosawa,"Toshirô Mifune,  Machiko Kyô",8.1,\Posters\Rashômon
+151,No Country for Old Men,2007,Ethan Coen,"Tommy Lee Jones,  Javier Bardem",8.1,\Posters\No Country for Old Men
+152,Kill Bill: Vol. 1,2003,Quentin Tarantino,"Uma Thurman,  David Carradine",8.1,\Posters\Kill Bill: Vol. 1
+153,The Thing,1982,John Carpenter,"Kurt Russell,  Wilford Brimley",8.1,\Posters\The Thing
+154,Finding Nemo,2003,Andrew Stanton,"Albert Brooks,  Ellen DeGeneres",8.1,\Posters\Finding Nemo
+155,The Elephant Man,1980,David Lynch,"Anthony Hopkins,  John Hurt",8.1,\Posters\The Elephant Man
+156,Chinatown,1974,Roman Polanski,"Jack Nicholson,  Faye Dunaway",8.1,\Posters\Chinatown
+157,Raging Bull,1980,Martin Scorsese,"Robert De Niro,  Cathy Moriarty",8.1,\Posters\Raging Bull
+158,V for Vendetta,2005,James McTeigue,"Hugo Weaving,  Natalie Portman",8.1,\Posters\V for Vendetta
+159,Gone with the Wind,1939,Victor Fleming,"Clark Gable,  Vivien Leigh",8.1,\Posters\Gone with the Wind
+160,"Lock, Stock and Two Smoking Barrels",1998,Guy Ritchie,"Jason Flemyng,  Dexter Fletcher",8.1,"\Posters\Lock, Stock and Two Smoking Barrels"
+161,Inside Out,2015,Pete Docter,"Amy Poehler,  Bill Hader",8.1,\Posters\Inside Out
+162,Dial M for Murder,1954,Alfred Hitchcock,"Ray Milland,  Grace Kelly",8.1,\Posters\Dial M for Murder
+163,El secreto de sus ojos,2009,Juan José Campanella,"Ricardo Darín,  Soledad Villamil",8.1,\Posters\El secreto de sus ojos
+164,Hauru no ugoku shiro,2004,Hayao Miyazaki,"Chieko Baishô,  Takuya Kimura",8.1,\Posters\Hauru no ugoku shiro
+165,"Three Billboards Outside Ebbing, Missouri",2017,Martin McDonagh,"Frances McDormand,  Woody Harrelson",8.1,"\Posters\Three Billboards Outside Ebbing, Missouri"
+166,The Bridge on the River Kwai,1957,David Lean,"William Holden,  Alec Guinness",8.1,\Posters\The Bridge on the River Kwai
+167,Trainspotting,1996,Danny Boyle,"Ewan McGregor,  Ewen Bremner",8.1,\Posters\Trainspotting
+168,Prisoners,2013,Denis Villeneuve,"Hugh Jackman,  Jake Gyllenhaal",8.1,\Posters\Prisoners
+169,Warrior,2011,"""Gavin OConnor ""","Tom Hardy,  Nick Nolte",8.1,\Posters\Warrior
+170,Fargo,1996,Joel Coen,"William H. Macy,  Frances McDormand",8.1,\Posters\Fargo
+171,Gran Torino,2008,Clint Eastwood,"Clint Eastwood,  Bee Vang",8.1,\Posters\Gran Torino
+172,Tonari no Totoro,1988,Hayao Miyazaki,"Hitoshi Takagi,  Noriko Hidaka",8.1,\Posters\Tonari no Totoro
+173,Catch Me If You Can,2002,Steven Spielberg,"Leonardo DiCaprio,  Tom Hanks",8.1,\Posters\Catch Me If You Can
+174,Million Dollar Baby,2004,Clint Eastwood,"Hilary Swank,  Clint Eastwood",8.1,\Posters\Million Dollar Baby
+175,Bacheha-Ye aseman,1997,Majid Majidi,"Mohammad Amir Naji,  Amir Farrokh Hashemian",8.1,\Posters\Bacheha-Ye aseman
+176,Blade Runner,1982,Ridley Scott,"Harrison Ford,  Rutger Hauer",8.1,\Posters\Blade Runner
+177,The Gold Rush,1925,Charles Chaplin,"Charles Chaplin,  Mack Swain",8.1,\Posters\The Gold Rush
+178,Before Sunrise,1995,Richard Linklater,"Ethan Hawke,  Julie Delpy",8.1,\Posters\Before Sunrise
+179,12 Years a Slave,2013,Steve McQueen,"Chiwetel Ejiofor,  Michael Kenneth Williams",8.1,\Posters\12 Years a Slave
+180,On the Waterfront,1954,Elia Kazan,"Marlon Brando,  Karl Malden",8.1,\Posters\On the Waterfront
+181,Harry Potter and the Deathly Hallows - Part 2,2011,David Yates,"Daniel Radcliffe,  Emma Watson",8.1,\Posters\Harry Potter and the Deathly Hallows - Part 2
+182,Klaus,2019,Sergio Pablos,"Jason Schwartzman,  J.K. Simmons",8.1,\Posters\Klaus
+183,Ben-Hur,1959,William Wyler,"Charlton Heston,  Jack Hawkins",8.1,\Posters\Ben-Hur
+184,Gone Girl,2014,David Fincher,"Ben Affleck,  Rosamund Pike",8.1,\Posters\Gone Girl
+185,Smultronstället,1957,Ingmar Bergman,"Victor Sjöström,  Bibi Andersson",8.1,\Posters\Smultronstället
+186,The Grand Budapest Hotel,2014,Wes Anderson,"Ralph Fiennes,  F. Murray Abraham",8.1,\Posters\The Grand Budapest Hotel
+187,The General,1926,Clyde Bruckman,"Buster Keaton,  Marion Mack",8.1,\Posters\The General
+188,The Third Man,1949,Carol Reed,"Orson Welles,  Joseph Cotten",8.1,\Posters\The Third Man
+189,In the Name of the Father,1993,Jim Sheridan,"Daniel Day-Lewis,  Pete Postlethwaite",8.1,\Posters\In the Name of the Father
+190,The Deer Hunter,1978,Michael Cimino,"Robert De Niro,  Christopher Walken",8.1,\Posters\The Deer Hunter
+191,Barry Lyndon,1975,Stanley Kubrick,""" Ryan ONeal"",  Marisa Berenson",8.1,\Posters\Barry Lyndon
+192,Le salaire de la peur,1953,Henri-Georges Clouzot,"Yves Montand,  Charles Vanel",8.1,\Posters\Le salaire de la peur
+193,Hacksaw Ridge,2016,Mel Gibson,"Andrew Garfield,  Sam Worthington",8.1,\Posters\Hacksaw Ridge
+194,Salinui chueok,2003,Bong Joon Ho,"Song Kang-ho,  Kim Sang-kyung",8.1,\Posters\Salinui chueok
+195,Mr. Smith Goes to Washington,1939,Frank Capra,"James Stewart,  Jean Arthur",8.1,\Posters\Mr. Smith Goes to Washington
+196,Sherlock Jr.,1924,Buster Keaton,"Buster Keaton,  Kathryn McGuire",8.1,\Posters\Sherlock Jr.
+197,Relatos salvajes,2014,Damián Szifron,"Darío Grandinetti,  María Marull",8.1,\Posters\Relatos salvajes
+198,Mad Max: Fury Road,2015,George Miller,"Tom Hardy,  Charlize Theron",8.1,\Posters\Mad Max: Fury Road
+199,Det sjunde inseglet,1957,Ingmar Bergman,"Max von Sydow,  Gunnar Björnstrand",8.1,\Posters\Det sjunde inseglet
+200,Mary and Max.,2009,Adam Elliot,"Toni Collette,  Philip Seymour Hoffman",8.1,\Posters\Mary and Max.
+201,Room,2015,Lenny Abrahamson,"Brie Larson,  Jacob Tremblay",8.1,\Posters\Room
+202,How to Train Your Dragon,2010,Dean DeBlois,"Jay Baruchel,  Gerard Butler",8.1,\Posters\How to Train Your Dragon
+203,"Monsters, Inc.",2001,Pete Docter,"Billy Crystal,  John Goodman",8.1,"\Posters\Monsters, Inc."
+204,Jaws,1975,Steven Spielberg,"Roy Scheider,  Robert Shaw",8.1,\Posters\Jaws
+205,The Big Lebowski,1998,Joel Coen,"Jeff Bridges,  John Goodman",8.1,\Posters\The Big Lebowski
+206,Dead Poets Society,1989,Peter Weir,"Robin Williams,  Robert Sean Leonard",8.1,\Posters\Dead Poets Society
+207,Tôkyô monogatari,1953,Yasujirô Ozu,"Chishû Ryû,  Chieko Higashiyama",8.1,\Posters\Tôkyô monogatari
+208,La passion de Jeanne d'Arc,1928,Carl Theodor Dreyer,"Maria Falconetti,  Eugene Silvain",8.1,\Posters\La passion de Jeanne d'Arc
+209,Hotel Rwanda,2004,Terry George,"Don Cheadle,  Sophie Okonedo",8.1,\Posters\Hotel Rwanda
+210,Ford v Ferrari,2019,James Mangold,"Matt Damon,  Christian Bale",8.0,\Posters\Ford v Ferrari
+211,Rocky,1976,John G. Avildsen,"Sylvester Stallone,  Talia Shire",8.0,\Posters\Rocky
+212,Platoon,1986,Oliver Stone,"Charlie Sheen,  Tom Berenger",8.0,\Posters\Platoon
+213,Spotlight,2015,Tom McCarthy,"Mark Ruffalo,  Michael Keaton",8.0,\Posters\Spotlight
+214,Ratatouille,2007,Brad Bird,"Brad Garrett,  Lou Romano",8.0,\Posters\Ratatouille
+215,The Terminator,1984,James Cameron,"Arnold Schwarzenegger,  Linda Hamilton",8.0,\Posters\The Terminator
+216,Stand by Me,1986,Rob Reiner,"Wil Wheaton,  River Phoenix",8.0,\Posters\Stand by Me
+217,Logan,2017,James Mangold,"Hugh Jackman,  Patrick Stewart",8.0,\Posters\Logan
+218,Rush,2013,Ron Howard,"Daniel Brühl,  Chris Hemsworth",8.0,\Posters\Rush
+219,Network,1976,Sidney Lumet,"Faye Dunaway,  William Holden",8.0,\Posters\Network
+220,Pather Panchali,1955,Satyajit Ray,"Kanu Bannerjee,  Karuna Bannerjee",8.0,\Posters\Pather Panchali
+221,Into the Wild,2007,Sean Penn,"Emile Hirsch,  Vince Vaughn",8.0,\Posters\Into the Wild
+222,Before Sunset,2004,Richard Linklater,"Ethan Hawke,  Julie Delpy",8.0,\Posters\Before Sunset
+223,The Wizard of Oz,1939,Victor Fleming,"Judy Garland,  Frank Morgan",8.0,\Posters\The Wizard of Oz
+224,Groundhog Day,1993,Harold Ramis,"Bill Murray,  Andie MacDowell",8.0,\Posters\Groundhog Day
+225,The Best Years of Our Lives,1946,William Wyler,"Myrna Loy,  Dana Andrews",8.0,\Posters\The Best Years of Our Lives
+226,The Exorcist,1973,William Friedkin,"Ellen Burstyn,  Max von Sydow",8.0,\Posters\The Exorcist
+227,The Incredibles,2004,Brad Bird,"Craig T. Nelson,  Samuel L. Jackson",8.0,\Posters\The Incredibles
+228,To Be or Not to Be,1942,Ernst Lubitsch,"Carole Lombard,  Jack Benny",8.0,\Posters\To Be or Not to Be
+229,La battaglia di Algeri,1966,Gillo Pontecorvo,"Brahim Hadjadj,  Jean Martin",8.0,\Posters\La battaglia di Algeri
+230,La haine,1995,Mathieu Kassovitz,"Vincent Cassel,  Hubert Koundé",8.0,\Posters\La haine
+231,Hachi: A Dog's Tale,2009,Lasse Hallström,"Richard Gere,  Joan Allen",8.0,\Posters\Hachi: A Dog's Tale
+232,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Gore Verbinski,"Johnny Depp,  Geoffrey Rush",8.0,\Posters\Pirates of the Caribbean: The Curse of the Black Pearl
+233,Babam ve Oglum,2005,Çagan Irmak,"Çetin Tekindor,  Fikret Kuskan",8.0,\Posters\Babam ve Oglum
+234,Jai Bhim,2021,T.J. Gnanavel,"Suriya,  Lijo Mol Jose",8.0,\Posters\Jai Bhim
+235,The Grapes of Wrath,1940,John Ford,"Henry Fonda,  Jane Darwell",8.0,\Posters\The Grapes of Wrath
+236,Amores perros,2000,Alejandro G. Iñárritu,"Emilio Echevarría,  Gael García Bernal",8.0,\Posters\Amores perros
+237,Rebecca,1940,Alfred Hitchcock,"Laurence Olivier,  Joan Fontaine",8.0,\Posters\Rebecca
+238,Cool Hand Luke,1967,Stuart Rosenberg,"Paul Newman,  George Kennedy",8.0,\Posters\Cool Hand Luke
+239,Ah-ga-ssi,2016,Park Chan-wook,"Kim Min-hee,  Ha Jung-woo",8.0,\Posters\Ah-ga-ssi
+240,Les quatre cents coups,1959,François Truffaut,"Jean-Pierre Léaud,  Albert Rémy",8.0,\Posters\Les quatre cents coups
+241,The Sound of Music,1965,Robert Wise,"Julie Andrews,  Christopher Plummer",8.0,\Posters\The Sound of Music
+242,It Happened One Night,1934,Frank Capra,"Clark Gable,  Claudette Colbert",8.0,\Posters\It Happened One Night
+243,Persona,1966,Ingmar Bergman,"Bibi Andersson,  Liv Ullmann",8.0,\Posters\Persona
+244,Life of Brian,1979,Terry Jones,"Graham Chapman,  John Cleese",8.0,\Posters\Life of Brian
+245,The Iron Giant,1999,Brad Bird,"Eli Marienthal,  Harry Connick Jr.",8.0,\Posters\The Iron Giant
+246,Dersu Uzala,1975,Akira Kurosawa,"Maksim Munzuk,  Yuriy Solomin",8.0,\Posters\Dersu Uzala
+247,The Help,2011,Tate Taylor,"Viola Davis,  Emma Stone",8.0,\Posters\The Help
+248,Aladdin,1992,Ron Clements,"Scott Weinger,  Robin Williams",8.0,\Posters\Aladdin
+249,Gandhi,1982,Richard Attenborough,"Ben Kingsley,  John Gielgud",8.0,\Posters\Gandhi
+250,Dances with Wolves,1990,Kevin Costner,"Kevin Costner,  Mary McDonnell",8.0,\Posters\Dances with Wolves
